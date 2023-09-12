@@ -12,7 +12,8 @@ preferred-citation:
   date-released: "2022-01-01"
   volume: "36"
   title: "Optimal Tensor Transport"
-  booktitle: "Proceedings of the AAAI Conference on Artificial Intelligence"
+  conference:
+    name: "Proceedings of the AAAI Conference on Artificial Intelligence"
   start: "7124"
   end: "7132"
   authors:
