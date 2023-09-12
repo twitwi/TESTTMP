@@ -1,0 +1,10 @@
+images:
+  preview: ott.png
+github_topics:
+  - machine-learning
+  - optimal-tranport
+hal: hal-03479241
+notification-chain-hashes:
+  f55dd81b9125b0778f76fe9f5d98727784f27b744c4c4ac1403284a7eba82db2: 1-TK
+  d43d100453c8e70891084ef77779198122ad409f06940fd8be5dc6c58f8ee098: 1-REm
+  f17c78f4a283c0d5cbb7c196f8e4c35bf34f69218048e333e4e6d20bfdcee0f1: 2-MS
