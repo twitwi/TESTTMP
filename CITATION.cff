@@ -6,6 +6,7 @@ cff-version: "1.2.0"
 authors:
   - family-names: "Kerdoncuff"
     given-names: "Tanguy"
+    orcid: "https://orcid.org/0000-0001-9209-3096"
 preferred-citation:
   type: "conference-paper"
   date-released: "2022-01-01"
@@ -17,8 +18,10 @@ preferred-citation:
   authors:
     - family-names: "Kerdoncuff"
       given-names: "Tanguy"
+      orcid: "https://orcid.org/0000-0001-9209-3096"
     - family-names: "Emonet"
       given-names: "Rémi"
+      orcid: "https://orcid.org/0000-0002-1870-1329"
     - family-names: "Perrot"
       given-names: "Michaël"
     - family-names: "Sebban"
